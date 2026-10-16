@@ -253,3 +253,9 @@ It is the shortest route and it also uses the main highways, which suits a heavy
 
 - Distances: Google Maps (https://www.google.com/maps)
 - All diagrams in this section were generated using PlantUML (https://plantuml.com). The source files are in the `diagrams` folder.
+
+---
+
+## Our Team
+
+![Team Photo](Team_Photo.jpeg)
